@@ -1,1 +1,1 @@
-App-le 1.0:1.0:App-le 1.0.sprite3
+App-le 1.0:1.0:App-le.sprite3
